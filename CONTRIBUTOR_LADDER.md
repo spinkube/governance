@@ -18,7 +18,7 @@ Members are expected to:
 
 Members have no additional capabilities beyond anyone else in the SpinKube community.
 
-To become a member you must meet the following requirements:
+To become a member you must meet the following requirements and then reach out to a maintainer if you wish to be added to the org:
 
 - Contributed at least 5 PRs to SpinKube.
 
@@ -67,7 +67,7 @@ To become a maintainer you must meet the following requirements:
 
 ## Scope of Roles
 
-The roles of member, reviewer, and maintainer are not scoped to individual sub-projects within the SpinKube project. For example once you are a reviewer you will have reviewer capabilities in all sub-projects within the SpinKube project.
+The roles of member, reviewer, and maintainer are not scoped to individual sub-projects within the SpinKube project. For example once you are a reviewer you will have reviewer capabilities in all sub-projects within the SpinKube project. However, `CODEOWNERS` files will be used to limit approval rights on a per-sub-project basis.
 
 As the SpinKube project grows we may begin scoping roles to specific sub-projects. We may also introduce an additional approver role between reviewer and maintainer if we have need for giving people write access without voting power.
 
