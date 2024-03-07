@@ -67,7 +67,7 @@ To become a maintainer you must meet the following requirements:
 
 ## Scope of Roles
 
-The roles of member, reviewer, and maintainer are scoped to individual repositories within the SpinKube project. For example if you are a reviewer for the `spin-operator` you will have reviewer capabilities in that repository but not elsewhere. This will be managed with `CODEOWNERS` files in each repository. An exception to this is that maintainers will have merge rights in all repositories within the SpinKube project, but only approval rights in the repositories they are a actually a maintainer for.
+The roles of member, reviewer, and maintainer are scoped to individual repositories within the SpinKube project. For example if you are a reviewer for the `spin-operator` you will have reviewer capabilities in that repository but not elsewhere. An exception to this is that maintainers will have merge rights in all repositories within the SpinKube project, but only approval rights in the repositories they are a actually a maintainer for.
 
 If someone demonstrates expertise in multiple areas of the project they may be given reviewer or maintainer rights in multiple repositories. Having maintainer rights in multiple repositories does not increase your voting power in the governance of the SpinKube project.
 
