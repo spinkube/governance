@@ -34,7 +34,7 @@ Reviewers are expected to:
 
 Reviewers have the following additional capabilities:
 
-- Triage access to the SpinKube project (able manage issues and PRs without merge rights).
+- Triage access to the SpinKube project (able to manage issues and PRs without merge rights).
 
 To become a reviewer you must meet the following requirements:
 
@@ -62,17 +62,21 @@ Maintainers have the following additional capabilities:
 To become a maintainer you must meet the following requirements:
 
 - Already be a reviewer in the SpinKube project.
-- Be nominated by another maintainer.
-- Have your nomination approved by a simple majority of maintainers.
+- Be nominated by another maintainer — they will inform you.
+- Have your nomination approved by a simple majority of maintainers in a private vote.
 
 ## Scope of Roles
 
-The roles of member, reviewer, and maintainer are not scoped to individual sub-projects within the SpinKube project. For example once you are a reviewer you will have reviewer capabilities in all sub-projects within the SpinKube project. However, `CODEOWNERS` files will be used to limit approval rights on a per-sub-project basis.
+The roles of member, reviewer, and maintainer are scoped to individual repositories within the SpinKube project. For example if you are a reviewer for the `spin-operator` you will have reviewer capabilities in that repository but not elsewhere. This will be managed with `CODEOWNERS` files in each repository. An exception to this is that maintainers will have merge rights in all repositories within the SpinKube project, but only approval rights in the repositories they are a actually a maintainer for.
 
-As the SpinKube project grows we may begin scoping roles to specific sub-projects. We may also introduce an additional approver role between reviewer and maintainer if we have need for giving people write access without voting power.
+If someone demonstrates expertise in multiple areas of the project they may be given reviewer or maintainer rights in multiple repositories. Having maintainer rights in multiple repositories does not increase your voting power in the governance of the SpinKube project.
+
+Project wide decisions (e.g. how project resources are allocated, changes to the governance model, etc.) will be made by a simple majority of maintainers in a private vote.
+
+As the SpinKube project grows we may introduce an additional approver role between reviewer and maintainer if we have need for giving people write access without voting power.
 
 ## Inactivity
 
-If a member, reviewer, or maintainer becomes inactive they may be removed from the role. Inactivity is defined as not meaningfully contributing to the SpinKube project for 6 months. It is the responsibility of the maintainers to monitor and handle inactivity. Typically the outcome will be asking the person to step down or involuntarily removing them. All outcomes must be approved by a simple majority of the maintainers.
+If a member, reviewer, or maintainer becomes inactive they may be removed from the role. Inactivity is defined as not meaningfully contributing to the SpinKube project for 6 months. It is the responsibility of the maintainers to monitor and handle inactivity. Typically the outcome will be asking the person to step down or involuntarily removing them. All outcomes must be approved by a simple majority of the maintainers in a private vote.
 
 You may also choose to voluntarily step down from your role if it is no longer a fit.
