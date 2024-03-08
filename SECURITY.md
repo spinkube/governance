@@ -12,13 +12,13 @@ To report a SpinKube vulnerability, either:
 
     Click on 'Report a vulnerability'
 
-// TODO: set up a securty mailing list that is anyone can send to but only maintainers can see
-2. Send an email to `security@spinkube.dev` detailing the issue and steps
+2. Send an email to `spinkubemaintainers@gmail.com` detailing the issue and steps
 to reproduce.
 
 The reporter(s) can expect a response within 24 hours acknowledging
 the issue was received. If a response is not received within 24 hours, please
-reach out to any maintainer directly on [Discord](<insert-link-to-community-chat>) to confirm receipt of the issue.
+reach out to any maintainer directly on the [CNCF Slack Channel: #spinkube](https://cloud-native.slack.com/archives/C06PC7JA1EE)
+to confirm receipt of the issue.
 
 ## Review Process
 
@@ -33,7 +33,7 @@ can request to be updated regularly via email.
 If the vulnerability is accepted, a timeline for developing a patch, public
 disclosure, and patch release will be determined. If there is an embargo period
 on public disclosure before the patch release, an announcment will be sent to
-the security announce mailing list(`spinkube-security-announce@spinkube.dev`) // TODO: set up announce mailing list
+the security announce mailing list: `spinkube-security-announce@googlegroups.com`
 announcing the scope of the vulnerability, the date of availability of the
 patch release, and the date of public disclosure. The reporter(s) are expected
 to participate in the discussion of the timeline and abide by agreed upon dates
@@ -54,6 +54,6 @@ mailing list. Indirect users who use SpinKube through a vendor are not expected 
 join, but should request their vendor join. To join the mailing list, the individual
 or organization must be sponsored by either a SpinKube maintainer or security advisor
 as well as have a record of properly handling non-public security information. If a
-sponsor cannot be found, sponsorship may be requested at `security@spinkube.dev`.
+sponsor cannot be found, sponsorship may be requested at `spinkubemaintainers@gmail.com`.
 Sponsorship should not be requested via public channels since membership of the security
 announce list is not public.
