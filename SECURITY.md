@@ -12,13 +12,13 @@ To report a SpinKube vulnerability, either:
 
     Click on 'Report a vulnerability'
 
-// TODO: set up a securty mailing list that is anyone can send to but only maintainers can see
-2. Send an email to `security@spinkube.dev` detailing the issue and steps
+2. Send an email to `spinkubemaintainers@gmail.com` detailing the issue and steps
 to reproduce.
 
 The reporter(s) can expect a response within 24 hours acknowledging
 the issue was received. If a response is not received within 24 hours, please
-reach out to any maintainer directly on [Discord](<insert-link-to-community-chat>) to confirm receipt of the issue.
+reach out to any maintainer directly on [Discord](<insert-link-to-community-chat>)
+to confirm receipt of the issue.
 
 ## Review Process
 
@@ -54,6 +54,6 @@ mailing list. Indirect users who use SpinKube through a vendor are not expected 
 join, but should request their vendor join. To join the mailing list, the individual
 or organization must be sponsored by either a SpinKube maintainer or security advisor
 as well as have a record of properly handling non-public security information. If a
-sponsor cannot be found, sponsorship may be requested at `security@spinkube.dev`.
+sponsor cannot be found, sponsorship may be requested at `spinkubemaintainers@gmail.com`.
 Sponsorship should not be requested via public channels since membership of the security
 announce list is not public.
