@@ -1,0 +1,15 @@
+# Maintainers
+
+- Danielle Lancashire (Fermyon) [@endocrimes](https://github.com/endocrimes)
+- David Justice (Microsoft) [@devigned](https://github.com/devigned)
+- Jiaxiao Zhou (Microsoft) [@mossaka](https://github.com/mossaka)
+- James Sturevant (Microsoft) [@jsturtevant](https://github.com/jsturtevant)
+- Kate Goldenring (Fermyon) [@kate-goldenring](https://github.com/kate-goldenring)
+- Radu Matei (Fermyon) [@radu-matei](https://github.com/radu-matei)
+- Flavio Castelli (Suse) [@flavio](https://github.com/flavio)
+- Rajat Jindal (Independent) [@rajatjindal](https://github.com/rajatjindal)
+- Matthew Fisher (Fermyon) [@bacongobbler](https://github.com/bacongobbler)
+- Michelle Dhanani (Fermyon) [@michelleN](https://github.com/michelleN)
+- Christoph Voigt (Liquid Reply) [@voigt](https://github.com/voigt)
+- Sven Pfennig (Hetzner) [@0xE282B0](https://github.com/0xE282B0)
+- Caleb Schoepp (Fermyon) [@calebschoepp](https://github.com/calebschoepp)
